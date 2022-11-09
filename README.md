@@ -8,7 +8,7 @@ window.scroll 활용
 ## SocialLogin (소셜로그인 관련 코드 정리)
 - KaKaoLogin (카카오)
 ---
-## Location 
+## Location (위치, 지도와 관련 코드 정리)
 - CurrentLocation (현재 위치 좌표값구하기)
 카카오맵API를 활용(geolocation)
 ---
