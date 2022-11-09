@@ -18,7 +18,7 @@ const options = {
     console.warn("ERROR(" + err.code + "): " + err.message);
   }
   
-  useEffect(()=>{
    //첫 랜더링시에, 내 위치를 좌표값으로 
+  useEffect(()=>{
     navigator.geolocation.getCurrentPosition(success, error, options);
   },[])
